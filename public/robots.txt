@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://snuschdev.github.io/sitemap.xml
+Sitemap: https://stephanynusch.github.io/sitemap.xml
