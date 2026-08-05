@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snuschdev.github.io/sitemap.xml
